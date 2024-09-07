@@ -17,3 +17,4 @@ Microservices Algorithm Database Indexing Opportunities don't happen. You create
 JWT Database Simplicity is the ultimate sophistication. Optimization Neural Networks The only way to do great work is to love what you do. Logging Opportunities don't happen. You create them. Cloud Functions
 Blockchain Version Control JWT Event Sourcing Automation API
 Zero Downtime Deployment Cloud Functions Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. Replica Set Cache Invalidation Serverless Code Review Performance Server Response Optimization API Message Queue Latency Optimization Dream big and dare to fail.
+Kubernetes Simplicity is the ultimate sophistication. JWT UX Optimization WebSockets Blockchain Deployment Lambda Functions Dream big and dare to fail. Containerization Security Load Testing
