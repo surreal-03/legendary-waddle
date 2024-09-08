@@ -16,3 +16,4 @@ Monitoring Container Orchestration Python CI/CD Machine Learning Docker Stay hun
 Microservices Algorithm Database Indexing Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. Code Review GraphQL Container Orchestration Cloud
 JWT Database Simplicity is the ultimate sophistication. Optimization Neural Networks The only way to do great work is to love what you do. Logging Opportunities don't happen. You create them. Cloud Functions
 Blockchain Version Control JWT Event Sourcing Automation API
+Zero Downtime Deployment Cloud Functions Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. Replica Set Cache Invalidation Serverless Code Review Performance Server Response Optimization API Message Queue Latency Optimization Dream big and dare to fail.
