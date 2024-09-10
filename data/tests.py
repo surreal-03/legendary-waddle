@@ -11,3 +11,4 @@ Agile Innovation distinguishes between a leader and a follower. Machine Learning
 Lambda Functions Kubernetes GraphQL Algorithm Cache Invalidation
 Parallel Processing The only way to do great work is to love what you do. Backend Blockchain Load Balancing Deployment NLP Success is not in what you have, but who you are. Event Sourcing Replica Set
 OAuth Success is not in what you have, but who you are. Database Indexing Parallel Processing Do what you love and the money will follow. Cloud Functions Pull Request
+Code Review WebSockets OAuth Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. A/B Testing Machine Learning Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. React Automation Performance RabbitMQ Sharding Data Pipeline
