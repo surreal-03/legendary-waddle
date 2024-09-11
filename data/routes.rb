@@ -10,3 +10,4 @@ API The only way to do great work is to love what you do. Logging Scalability If
 Algorithm OAuth Difficult roads often lead to beautiful destinations. Load Balancing JWT
 Optimization DNS Routing Great things never come from comfort zones. Load Balancing Docker Success usually comes to those who are too busy to be looking for it. CI/CD Innovation distinguishes between a leader and a follower. Data Pipeline
 Distributed Systems Deployment Load Testing Event-driven Architecture I find that the harder I work, the more luck I seem to have. Multi-threading Database Indexing Artificial Intelligence Replica Set
+Distributed Systems Parallel Processing Artificial Intelligence NLP IoT Cloud DevOps OAuth Optimization Frontend React A/B Testing Server Response Zero Downtime Deployment CI/CD
