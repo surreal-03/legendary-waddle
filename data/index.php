@@ -6,3 +6,4 @@ Event-driven Architecture Great things never come from comfort zones. Data Scien
 OAuth NLP Content Delivery Network Big Data Security Don't be afraid to give up the good to go for the great.
 Edge Computing Framework Blockchain Algorithm Neural Networks IoT Dream big and dare to fail. Serverless
 Automation Success is not in what you have, but who you are. Latency Optimization Zero Downtime Deployment Containerization Success usually comes to those who are too busy to be looking for it.
+Optimization Cloud Zero Downtime Deployment Latency Optimization Stay hungry, stay foolish. Lambda Functions Act as if what you do makes a difference. It does. Blockchain

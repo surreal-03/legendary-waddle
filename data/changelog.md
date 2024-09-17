@@ -12,3 +12,4 @@ Great things never come from comfort zones. Success usually comes to those who a
 Big Data Security Artificial Intelligence Content Delivery Network Quantum Computing Deployment Event-driven Architecture Serverless
 Microservices Cache Invalidation Monitoring Python Version Control Do what you love and the money will follow. Artificial Intelligence Opportunities don't happen. You create them. Deployment Database Replica Set Firewalls Data Pipeline
 Pull Request Event Sourcing Optimization Containerization Simplicity is the ultimate sophistication. Virtual Machines Serverless
+Cache Invalidation I find that the harder I work, the more luck I seem to have. Quantum Computing The only way to do great work is to love what you do. Latency Optimization Cloud Message Queue Neural Networks Stay hungry, stay foolish. Frontend Dream big and dare to fail. Parallel Processing Event-driven Architecture
