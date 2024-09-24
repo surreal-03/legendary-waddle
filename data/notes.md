@@ -15,3 +15,4 @@ Message Queue Do what you love and the money will follow. Event Sourcing Contain
 Monitoring Container Orchestration Python CI/CD Machine Learning Docker Stay hungry, stay foolish. Success is not in what you have, but who you are. Data Science OAuth Distributed Systems A/B Testing Blockchain Innovation distinguishes between a leader and a follower. Microservices
 Microservices Algorithm Database Indexing Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. Code Review GraphQL Container Orchestration Cloud
 JWT Database Simplicity is the ultimate sophistication. Optimization Neural Networks The only way to do great work is to love what you do. Logging Opportunities don't happen. You create them. Cloud Functions
+Blockchain Version Control JWT Event Sourcing Automation API
