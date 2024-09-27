@@ -10,3 +10,4 @@ Algorithm Neural Networks OAuth I find that the harder I work, the more luck I s
 Agile Innovation distinguishes between a leader and a follower. Machine Learning Frontend API Blockchain UX Optimization
 Lambda Functions Kubernetes GraphQL Algorithm Cache Invalidation
 Parallel Processing The only way to do great work is to love what you do. Backend Blockchain Load Balancing Deployment NLP Success is not in what you have, but who you are. Event Sourcing Replica Set
+OAuth Success is not in what you have, but who you are. Database Indexing Parallel Processing Do what you love and the money will follow. Cloud Functions Pull Request
