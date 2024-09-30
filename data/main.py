@@ -9,3 +9,4 @@ Success doesn’t just find you. You have to go out and get it. Message Queue Simp
 Opportunities don't happen. You create them. Performance Container Orchestration Don't be afraid to give up the good to go for the great. Backend Docker Cloud Message Queue Server Response Content Delivery Network Event Sourcing
 Framework Zero Downtime Deployment RabbitMQ Monitoring Sharding JavaScript Success is not in what you have, but who you are. Quantum Computing Event Sourcing Predictive Analytics Virtual Machines
 Event-driven Architecture CI/CD Data Science Act as if what you do makes a difference. It does. Success doesn’t just find you. You have to go out and get it. Blockchain Microservices
+Virtual Machines Data Science Database Indexing JavaScript A/B Testing Version Control Difficult roads often lead to beautiful destinations. RabbitMQ Don't be afraid to give up the good to go for the great.
