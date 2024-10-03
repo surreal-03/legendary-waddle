@@ -9,3 +9,4 @@ Dream big and dare to fail. Predictive Analytics Do what you love and the money 
 Work hard in silence, let your success be your noise. Logging Python Optimization Predictive Analytics Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions.
 Artificial Intelligence Event-driven Architecture Version Control Opportunities don't happen. You create them. JWT NLP Deployment
 Predictive Analytics Python Backend Opportunities don't happen. You create them. Event-driven Architecture Firewalls Agile RabbitMQ
+Virtual Machines The only way to do great work is to love what you do. Kafka Event-driven Architecture Containerization Simplicity is the ultimate sophistication. Microservices Machine Learning API React OAuth Zero Downtime Deployment Content Delivery Network

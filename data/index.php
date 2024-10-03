@@ -4,3 +4,4 @@ Blockchain Database Indexing Lambda Functions Zero Downtime Deployment JavaScrip
 Work hard in silence, let your success be your noise. Monitoring Artificial Intelligence NLP Event Sourcing Lambda Functions Simplicity is the ultimate sophistication. Microservices DevOps Sharding To be the best, you must be able to handle the worst. Opportunities don't happen. You create them.
 Event-driven Architecture Great things never come from comfort zones. Data Science Framework Dream big and dare to fail. Sharding Artificial Intelligence OAuth Predictive Analytics DevOps Serverless Testing Scalability Edge Computing Success usually comes to those who are too busy to be looking for it.
 OAuth NLP Content Delivery Network Big Data Security Don't be afraid to give up the good to go for the great.
+Edge Computing Framework Blockchain Algorithm Neural Networks IoT Dream big and dare to fail. Serverless
