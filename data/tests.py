@@ -9,3 +9,4 @@ JWT OAuth Success is not in what you have, but who you are. Framework Testing Ba
 Algorithm Neural Networks OAuth I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. Automation Virtual Machines Big Data Backend Scalability CI/CD Simplicity is the ultimate sophistication. Replica Set Load Balancing
 Agile Innovation distinguishes between a leader and a follower. Machine Learning Frontend API Blockchain UX Optimization
 Lambda Functions Kubernetes GraphQL Algorithm Cache Invalidation
+Parallel Processing The only way to do great work is to love what you do. Backend Blockchain Load Balancing Deployment NLP Success is not in what you have, but who you are. Event Sourcing Replica Set
