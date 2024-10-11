@@ -12,3 +12,4 @@ Monitoring Server Response Cache Invalidation Lambda Functions Security DNS Rout
 Lambda Functions A/B Testing Cache Invalidation React JavaScript Cloud Act as if what you do makes a difference. It does. Edge Computing GraphQL
 WebSockets Firewalls Database Microservices Kafka Cache Invalidation Logging DevOps UX Optimization Database Indexing Optimization
 Logging Data Science Dream big and dare to fail. NLP Do what you love and the money will follow. Message Queue Content Delivery Network Cloud Functions Artificial Intelligence
+Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. JavaScript Container Orchestration Cloud Event-driven Architecture Content Delivery Network Virtual Machines Big Data Database Indexing Dream big and dare to fail. NLP WebSockets
