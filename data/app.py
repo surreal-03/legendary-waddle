@@ -10,3 +10,4 @@ DevOps Serverless Virtual Machines Sharding Don't be afraid to give up the good 
 API Gateway A/B Testing Message Queue Zero Downtime Deployment Virtual Machines Python Firewalls NLP Big Data
 Virtual Machines Docker NLP Microservices I find that the harder I work, the more luck I seem to have. Artificial Intelligence Frontend Replica Set Load Testing
 RabbitMQ React CI/CD IoT Success is not in what you have, but who you are. Kubernetes Frontend Great things never come from comfort zones. Multi-threading Firewalls Pull Request Blockchain Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication.
+Distributed Systems A/B Testing Cache Invalidation Success is not in what you have, but who you are. Code Review Kubernetes Cloud Work hard in silence, let your success be your noise. GraphQL Act as if what you do makes a difference. It does.
