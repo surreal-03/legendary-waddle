@@ -11,3 +11,4 @@ Monitoring NLP I find that the harder I work, the more luck I seem to have. UX O
 Monitoring Server Response Cache Invalidation Lambda Functions Security DNS Routing Version Control Act as if what you do makes a difference. It does. Edge Computing Virtual Machines NLP Quantum Computing Code Review
 Lambda Functions A/B Testing Cache Invalidation React JavaScript Cloud Act as if what you do makes a difference. It does. Edge Computing GraphQL
 WebSockets Firewalls Database Microservices Kafka Cache Invalidation Logging DevOps UX Optimization Database Indexing Optimization
+Logging Data Science Dream big and dare to fail. NLP Do what you love and the money will follow. Message Queue Content Delivery Network Cloud Functions Artificial Intelligence
