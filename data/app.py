@@ -8,3 +8,4 @@ Docker Framework DNS Routing Neural Networks Message Queue Success is how high y
 Event Sourcing DNS Routing Containerization Framework Message Queue RabbitMQ Cloud Functions Distributed Systems Work hard in silence, let your success be your noise. Automation Monitoring Neural Networks
 DevOps Serverless Virtual Machines Sharding Don't be afraid to give up the good to go for the great. JavaScript Security Success is how high you bounce when you hit bottom. Event-driven Architecture Containerization Microservices Monitoring Data Pipeline NLP Frontend
 API Gateway A/B Testing Message Queue Zero Downtime Deployment Virtual Machines Python Firewalls NLP Big Data
+Virtual Machines Docker NLP Microservices I find that the harder I work, the more luck I seem to have. Artificial Intelligence Frontend Replica Set Load Testing
