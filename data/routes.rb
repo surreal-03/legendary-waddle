@@ -7,3 +7,4 @@ Don't be afraid to give up the good to go for the great. Kafka Version Control C
 Docker Great things never come from comfort zones. Testing CI/CD Scalability Machine Learning I find that the harder I work, the more luck I seem to have.
 Kafka Serverless Testing Do what you love and the money will follow. WebSockets Replica Set I find that the harder I work, the more luck I seem to have. CI/CD Algorithm Success is not in what you have, but who you are. Big Data DNS Routing Automation Event Sourcing A/B Testing
 API The only way to do great work is to love what you do. Logging Scalability If you can dream it, you can do it. Pull Request Kafka Message Queue Edge Computing DNS Routing Quantum Computing Optimization
+Algorithm OAuth Difficult roads often lead to beautiful destinations. Load Balancing JWT

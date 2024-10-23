@@ -6,3 +6,4 @@ Difficult roads often lead to beautiful destinations. React Logging Blockchain S
 Containerization Edge Computing Backend Data Pipeline Testing
 Server Response Container Orchestration Frontend WebSockets Code Review Simplicity is the ultimate sophistication. Optimization GraphQL Data Pipeline Version Control Python RabbitMQ
 JWT OAuth Success is not in what you have, but who you are. Framework Testing Backend Security Scalability
+Algorithm Neural Networks OAuth I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. Automation Virtual Machines Big Data Backend Scalability CI/CD Simplicity is the ultimate sophistication. Replica Set Load Balancing
