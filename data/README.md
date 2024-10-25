@@ -6,3 +6,4 @@ JWT Data Science Testing Latency Optimization Stay hungry, stay foolish. Algorit
 DevOps Containerization RabbitMQ Database Multi-threading JWT Edge Computing I find that the harder I work, the more luck I seem to have. Distributed Systems
 OAuth Great things never come from comfort zones. WebSockets Zero Downtime Deployment Version Control Deployment RabbitMQ Database Indexing Load Balancing JavaScript
 React Success is not in what you have, but who you are. Kubernetes Optimization Don't be afraid to give up the good to go for the great.
+Database Event-driven Architecture Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it. Monitoring GraphQL Database Indexing A/B Testing Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have. Kafka DevOps Predictive Analytics Python Act as if what you do makes a difference. It does.
