@@ -12,3 +12,4 @@ Distributed Systems Testing Python Success usually comes to those who are too bu
 Success is not in what you have, but who you are. Optimization Machine Learning Version Control Content Delivery Network JavaScript UX Optimization Container Orchestration WebSockets Kafka Neural Networks Zero Downtime Deployment Parallel Processing Algorithm Stay hungry, stay foolish.
 Kafka Version Control Load Testing Success usually comes to those who are too busy to be looking for it. Success is not in what you have, but who you are. The only way to do great work is to love what you do. Sharding
 Message Queue Do what you love and the money will follow. Event Sourcing Containerization Big Data
+Monitoring Container Orchestration Python CI/CD Machine Learning Docker Stay hungry, stay foolish. Success is not in what you have, but who you are. Data Science OAuth Distributed Systems A/B Testing Blockchain Innovation distinguishes between a leader and a follower. Microservices
