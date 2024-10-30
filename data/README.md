@@ -5,3 +5,4 @@ Agile Virtual Machines Load Testing Pull Request IoT React Database Containeriza
 JWT Data Science Testing Latency Optimization Stay hungry, stay foolish. Algorithm Multi-threading Load Balancing To be the best, you must be able to handle the worst. Scalability Event Sourcing
 DevOps Containerization RabbitMQ Database Multi-threading JWT Edge Computing I find that the harder I work, the more luck I seem to have. Distributed Systems
 OAuth Great things never come from comfort zones. WebSockets Zero Downtime Deployment Version Control Deployment RabbitMQ Database Indexing Load Balancing JavaScript
+React Success is not in what you have, but who you are. Kubernetes Optimization Don't be afraid to give up the good to go for the great.
