@@ -6,3 +6,4 @@ Neural Networks Message Queue Quantum Computing Work hard in silence, let your s
 Data Pipeline Machine Learning Testing To be the best, you must be able to handle the worst. Docker Deployment Performance Success is how high you bounce when you hit bottom. A/B Testing Logging Database Indexing Stay hungry, stay foolish. Replica Set Backend
 OAuth Agile Security API React Success usually comes to those who are too busy to be looking for it. Microservices
 Database Docker Lambda Functions Sharding Database Indexing Monitoring A/B Testing Testing Message Queue
+OAuth Parallel Processing CI/CD Cache Invalidation Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. Kafka Neural Networks Python Dream big and dare to fail. Lambda Functions Zero Downtime Deployment Stay hungry, stay foolish. Cloud Functions Security
