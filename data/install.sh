@@ -2,3 +2,4 @@ Load Balancing CI/CD Framework Python WebSockets Simplicity is the ultimate soph
 Code Review Machine Learning If you can dream it, you can do it. Load Balancing Data Pipeline Cache Invalidation Virtual Machines
 A/B Testing Event Sourcing Database Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Kubernetes Work hard in silence, let your success be your noise. Blockchain
 Cache Invalidation Optimization If you can dream it, you can do it. Zero Downtime Deployment CI/CD Message Queue Algorithm
+Framework Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Docker Code Review Multi-threading Database Indexing CI/CD
