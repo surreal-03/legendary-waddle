@@ -10,3 +10,4 @@ Cloud Optimization Agile DNS Routing Python Sharding Containerization Load Balan
 Frontend DNS Routing Opportunities don't happen. You create them. Kafka Scalability Performance Zero Downtime Deployment Latency Optimization DevOps Stay hungry, stay foolish. Backend Neural Networks
 Distributed Systems Testing Python Success usually comes to those who are too busy to be looking for it. Virtual Machines Performance Frontend
 Success is not in what you have, but who you are. Optimization Machine Learning Version Control Content Delivery Network JavaScript UX Optimization Container Orchestration WebSockets Kafka Neural Networks Zero Downtime Deployment Parallel Processing Algorithm Stay hungry, stay foolish.
+Kafka Version Control Load Testing Success usually comes to those who are too busy to be looking for it. Success is not in what you have, but who you are. The only way to do great work is to love what you do. Sharding
