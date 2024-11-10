@@ -6,3 +6,4 @@ JavaScript DNS Routing React Don't be afraid to give up the good to go for the g
 Zero Downtime Deployment Success is how high you bounce when you hit bottom. Docker Server Response Kubernetes UX Optimization Success is not in what you have, but who you are. Cache Invalidation To be the best, you must be able to handle the worst. Data Science Neural Networks Performance Security
 Zero Downtime Deployment Sharding Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise. A/B Testing Backend Innovation distinguishes between a leader and a follower. Predictive Analytics Security Pull Request Code Review
 API Gateway JWT If you can dream it, you can do it. Success is not in what you have, but who you are. Distributed Systems
+Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. Big Data JWT Load Balancing RabbitMQ Edge Computing Scalability IoT
