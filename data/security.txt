@@ -3,3 +3,4 @@ Python Success is not in what you have, but who you are. Sharding Optimization E
 API Framework Virtual Machines IoT Success is not in what you have, but who you are. Load Testing Dream big and dare to fail. Server Response Sharding UX Optimization Agile Simplicity is the ultimate sophistication. DNS Routing Neural Networks
 OAuth Predictive Analytics JWT Distributed Systems IoT Multi-threading Algorithm
 Data Science API Database Virtual Machines Serverless
+Testing Difficult roads often lead to beautiful destinations. UX Optimization DNS Routing Replica Set IoT Lambda Functions The only way to do great work is to love what you do. Neural Networks A/B Testing Pull Request
