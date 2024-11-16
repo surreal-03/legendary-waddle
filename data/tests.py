@@ -5,3 +5,4 @@ Dream big and dare to fail. Testing DNS Routing Success doesn’t just find you. Y
 Difficult roads often lead to beautiful destinations. React Logging Blockchain Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst. Deployment Load Balancing Lambda Functions Database Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does.
 Containerization Edge Computing Backend Data Pipeline Testing
 Server Response Container Orchestration Frontend WebSockets Code Review Simplicity is the ultimate sophistication. Optimization GraphQL Data Pipeline Version Control Python RabbitMQ
+JWT OAuth Success is not in what you have, but who you are. Framework Testing Backend Security Scalability
