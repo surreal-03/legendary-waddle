@@ -7,3 +7,4 @@ Cloud Docker Success doesn’t just find you. You have to go out and get it. Zero 
 Database RabbitMQ Do what you love and the money will follow. The only way to do great work is to love what you do. JWT Docker Difficult roads often lead to beautiful destinations. Security API Gateway Edge Computing API Success is not in what you have, but who you are.
 Framework Serverless Success is how high you bounce when you hit bottom. Database Indexing Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Machine Learning Algorithm Neural Networks
 Cloud Optimization Agile DNS Routing Python Sharding Containerization Load Balancing Zero Downtime Deployment JavaScript Container Orchestration
+Frontend DNS Routing Opportunities don't happen. You create them. Kafka Scalability Performance Zero Downtime Deployment Latency Optimization DevOps Stay hungry, stay foolish. Backend Neural Networks
