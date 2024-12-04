@@ -4,3 +4,4 @@ Python React Predictive Analytics Logging Version Control Stay hungry, stay fool
 Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Performance Agile Happiness is not something ready made. It comes from your own actions.
 Neural Networks Message Queue Quantum Computing Work hard in silence, let your success be your noise. DNS Routing
 Data Pipeline Machine Learning Testing To be the best, you must be able to handle the worst. Docker Deployment Performance Success is how high you bounce when you hit bottom. A/B Testing Logging Database Indexing Stay hungry, stay foolish. Replica Set Backend
+OAuth Agile Security API React Success usually comes to those who are too busy to be looking for it. Microservices
