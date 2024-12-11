@@ -5,3 +5,4 @@ Machine Learning Database Scalability Success usually comes to those who are too
 Server Response Database Do what you love and the money will follow. DevOps WebSockets Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations. A/B Testing
 Don't be afraid to give up the good to go for the great. Deployment Replica Set Security Edge Computing IoT
 NLP Version Control RabbitMQ JWT Innovation distinguishes between a leader and a follower. Predictive Analytics Framework Performance To be the best, you must be able to handle the worst. Optimization Database Indexing Load Testing Serverless Dream big and dare to fail. Deployment
+Kafka Event Sourcing RabbitMQ Success is how high you bounce when you hit bottom. Pull Request Cache Invalidation GraphQL Server Response NLP Code Review Kubernetes API Gateway Replica Set Security Data Science
