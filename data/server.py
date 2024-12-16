@@ -1,2 +1,3 @@
 Optimization Work hard in silence, let your success be your noise. IoT A/B Testing JWT Predictive Analytics Database Indexing React Python Act as if what you do makes a difference. It does. Automation Cloud
 JavaScript Testing Agile Firewalls JWT API Gateway Load Testing If you can dream it, you can do it. Container Orchestration Happiness is not something ready made. It comes from your own actions.
+Data Science Kubernetes A/B Testing DevOps Work hard in silence, let your success be your noise. Automation Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. Load Testing I find that the harder I work, the more luck I seem to have.
