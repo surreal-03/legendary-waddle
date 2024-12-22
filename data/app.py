@@ -4,3 +4,4 @@ Success usually comes to those who are too busy to be looking for it. OAuth Data
 Great things never come from comfort zones. Neural Networks Algorithm Firewalls RabbitMQ Dream big and dare to fail. Zero Downtime Deployment Deployment Latency Optimization
 Event Sourcing Microservices Serverless Automation API Gateway
 Innovation distinguishes between a leader and a follower. Optimization Multi-threading Cache Invalidation The only way to do great work is to love what you do. React Don't be afraid to give up the good to go for the great. Deployment Database Success usually comes to those who are too busy to be looking for it.
+Docker Framework DNS Routing Neural Networks Message Queue Success is how high you bounce when you hit bottom. Cloud Functions Firewalls
