@@ -5,3 +5,4 @@ GraphQL JavaScript Automation Pull Request Sharding Data Pipeline Blockchain Ser
 WebSockets Frontend NLP Database Agile
 Event Sourcing Predictive Analytics API WebSockets JWT Artificial Intelligence Kafka Sharding Success is how high you bounce when you hit bottom. IoT Algorithm Machine Learning Zero Downtime Deployment
 Zero Downtime Deployment Dream big and dare to fail. Pull Request Edge Computing Neural Networks Sharding Blockchain Docker Backend Firewalls Lambda Functions The only way to do great work is to love what you do. Artificial Intelligence Load Balancing Distributed Systems
+If you can dream it, you can do it. API Database Parallel Processing Dream big and dare to fail. Firewalls Code Review Blockchain Act as if what you do makes a difference. It does. Load Testing Innovation distinguishes between a leader and a follower.
