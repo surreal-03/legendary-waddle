@@ -2,3 +2,4 @@ Kafka CI/CD IoT The only way to do great work is to love what you do. Difficult 
 Code Review Dream big and dare to fail. API Gateway Security Database GraphQL If you can dream it, you can do it. Frontend I find that the harder I work, the more luck I seem to have. Python Data Science Innovation distinguishes between a leader and a follower.
 Python React Predictive Analytics Logging Version Control Stay hungry, stay foolish. Multi-threading Data Pipeline Message Queue Agile JavaScript
 Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Performance Agile Happiness is not something ready made. It comes from your own actions.
+Neural Networks Message Queue Quantum Computing Work hard in silence, let your success be your noise. DNS Routing
