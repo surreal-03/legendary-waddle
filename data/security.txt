@@ -1,3 +1,4 @@
 IoT NLP Replica Set Content Delivery Network Microservices Database Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish.
 Python Success is not in what you have, but who you are. Sharding Optimization Event-driven Architecture Container Orchestration Latency Optimization
 API Framework Virtual Machines IoT Success is not in what you have, but who you are. Load Testing Dream big and dare to fail. Server Response Sharding UX Optimization Agile Simplicity is the ultimate sophistication. DNS Routing Neural Networks
+OAuth Predictive Analytics JWT Distributed Systems IoT Multi-threading Algorithm
