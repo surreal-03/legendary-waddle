@@ -1,2 +1,3 @@
 Firewalls Cloud Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. Multi-threading Great things never come from comfort zones. Code Review
 Content Delivery Network Success doesn’t just find you. You have to go out and get it. GraphQL Event-driven Architecture Database API WebSockets Containerization Frontend Performance Work hard in silence, let your success be your noise. Pull Request
+Kubernetes DevOps Big Data The only way to do great work is to love what you do. Great things never come from comfort zones. Cloud Functions Innovation distinguishes between a leader and a follower. Event-driven Architecture Optimization Replica Set
