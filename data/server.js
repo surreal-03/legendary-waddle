@@ -2,3 +2,4 @@ Message Queue Load Balancing Opportunities don't happen. You create them. Work h
 Kubernetes Artificial Intelligence Machine Learning Database Firewalls Kafka Code Review Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Database Indexing GraphQL
 Difficult roads often lead to beautiful destinations. Sharding Load Testing Backend JWT Automation Parallel Processing Message Queue Firewalls Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great.
 GraphQL JavaScript Automation Pull Request Sharding Data Pipeline Blockchain Server Response Scalability Cloud Innovation distinguishes between a leader and a follower. DNS Routing Parallel Processing Load Balancing
+WebSockets Frontend NLP Database Agile
