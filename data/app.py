@@ -2,3 +2,4 @@ Happiness is not something ready made. It comes from your own actions. Kubernete
 Kubernetes Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. Deployment CI/CD JWT Container Orchestration Pull Request IoT
 Success usually comes to those who are too busy to be looking for it. OAuth Database Indexing Scalability JavaScript
 Great things never come from comfort zones. Neural Networks Algorithm Firewalls RabbitMQ Dream big and dare to fail. Zero Downtime Deployment Deployment Latency Optimization
+Event Sourcing Microservices Serverless Automation API Gateway
