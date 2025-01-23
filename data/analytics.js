@@ -1,1 +1,2 @@
 Opportunities don't happen. You create them. Optimization Performance Containerization JWT Replica Set GraphQL Machine Learning Lambda Functions Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations. A/B Testing
+Frontend Replica Set Load Balancing Simplicity is the ultimate sophistication. Kubernetes Agile Kafka Opportunities don't happen. You create them. Framework Logging Automation
