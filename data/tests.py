@@ -1,3 +1,4 @@
 Latency Optimization Cloud Functions Difficult roads often lead to beautiful destinations. Optimization Database Indexing
 Success doesn’t just find you. You have to go out and get it. Load Balancing I find that the harder I work, the more luck I seem to have. Machine Learning Happiness is not something ready made. It comes from your own actions. Python Algorithm Kafka Great things never come from comfort zones. Lambda Functions
 Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Lambda Functions Stay hungry, stay foolish. Algorithm WebSockets
+Dream big and dare to fail. Testing DNS Routing Success doesn’t just find you. You have to go out and get it. Python IoT Neural Networks Deployment Content Delivery Network Microservices Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Latency Optimization WebSockets Agile
