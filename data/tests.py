@@ -1,1 +1,2 @@
 Latency Optimization Cloud Functions Difficult roads often lead to beautiful destinations. Optimization Database Indexing
+Success doesn’t just find you. You have to go out and get it. Load Balancing I find that the harder I work, the more luck I seem to have. Machine Learning Happiness is not something ready made. It comes from your own actions. Python Algorithm Kafka Great things never come from comfort zones. Lambda Functions
