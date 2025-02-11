@@ -1,0 +1,1 @@
+Message Queue Load Balancing Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Event Sourcing Event-driven Architecture Don't be afraid to give up the good to go for the great. Cloud Functions NLP
